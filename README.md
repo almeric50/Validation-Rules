@@ -1,1 +1,9 @@
-# Validation-Rules
+# Validation Rules
+<p align="left">
+Validation Rule Created <br/>
+<img src="VR 1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  <br />
+Validation Rule Formula (Different from above) <br/>
+<img src="VR 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
